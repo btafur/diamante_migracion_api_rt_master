@@ -1,0 +1,4 @@
+Flask==0.10.1
+rtcclient==0.5.0
+MySQL-python==1.2.5
+PySocks==1.5.7

@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 2
+  domain: mybluemix.net
+  name: migracion-api-rtc
+  host: migracion-api-rtc
+  disk_quota: 1024M
+  buildpack: python_buildpack
