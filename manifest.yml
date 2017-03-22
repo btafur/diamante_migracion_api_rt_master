@@ -3,7 +3,7 @@ applications:
   memory: 1024M
   instances: 2
   domain: mybluemix.net
-  name: migracion-api-rtc
-  host: migracion-api-rtc
+  name: diamante_migracion_api_rt
+  host: diamante_migracion_api_rt
   disk_quota: 1024M
   buildpack: python_buildpack
